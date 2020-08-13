@@ -1,0 +1,60 @@
+Quale tra i seguenti non è un Jedi durante la trilogia originale di Star Wars?
+1) Anakin Skywalker
+2) Yoda
+3) Palpatine
+4) Kylo Ren
+~2
+Chi ha vinto il premio di miglior regista agli Oscar 2020?
+1) Quentin Tarantino
+2) Sam Mendes
+3) Martin Scorsese
+4) Bong Joon ho
+~4
+Qual e' la mascotte di Nintendo?
+1) Mario
+2) Sonic
+3) Pacman
+4) Crash
+~1
+L'index 151 del Pokedex a quale pokemon si riferisce?
+1) Pikachu
+2) Snorlax
+3) Mewtwo
+4) Mew
+~4
+Quali tra le seguenti non e' una potenza di 2?
+1) 1024
+2) 416
+3) 8192
+4) 16
+~2
+Qual e' la risposta alla domanda sulla vita, l'universo e tutto il resto?
+1) L'amicizia
+2) L'amore
+3) Non esiste
+4) 42
+~4
+Quali tra i seguenti testi non rispetta il pattern /[a-z]{2}.[0-9]{3}/?
+1) kl.123
+2) kI,666
+3) az6324
+4) jtk420
+~2
+Quale tra i seguenti non e' un linguaggio di programmazione?
+1) C
+2) C++
+3) CSS
+4) C#
+~3
+Quale tra i seguenti non è un personaggio DC Comics?
+1) Flash
+2) Batman
+3) Deathstroke
+4) Deadpool
+~4
+Quali tra le seguenti non è una console Nintendo?
+1) Dreamcast
+2) Gameboy
+3) Switch
+4) Gamecube
+~1
